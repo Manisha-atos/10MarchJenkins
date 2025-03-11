@@ -1,3 +1,5 @@
 Apple
 Mango
 banana
+Pear
+Pineapple
